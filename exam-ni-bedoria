@@ -51,7 +51,7 @@
             line-height: 1.6;
         }
         .footer {
-            background-color: #24292e;
+            background-color: #90EE90;
             color: white;
             text-align: center;
             padding: 1rem 0;
@@ -77,7 +77,7 @@
             <p>A Web Page inspired by GitHub</p>
         </div>
         <div class="content">
-            <img align=center height=100 width=100 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYSUdxq6gjhmN3mXtU1DcUBda8vlshkjo2rhCGsvhrTtRzc21gMcoSw&s=10">
+            <img align=center height=100 width=100 src=https:"https://www.google.com/imgres?imgurl=https://encrypted-tbn1.gstatic.com/images?q%3Dtbn:ANd9GcQXzhTo790I-jnGmy5O12C1oE9kt7wu6_p6oeybHVO1ATOnIIMU&tbnid=ecC0Iy_S5-8E3M&vet=1&imgrefurl=https://kids.nationalgeographic.com/animals/mammals/facts/eastern-cottontail-rabbit&docid=lwaugHv2Nld1JM&w=480&h=640&source=sh/x/im/m1/1&kgs=b8c6d4af35d5437b&shem=abme,trie,xga1pc">
             <h2>Introduction</h2>
             <p>This page is used as part of the hands-on activity for the Final Examination.</p>
             <h2>Batch _:</h2>
@@ -85,7 +85,7 @@
                 <li>Person 1</li>
                 <li>Person 2</li>
                 <li>Person 3</li>
-                <li>Person 4</li>
+                <li>Romelito C. Bedoria Jr.</li>
                 <li>Person 5</li>
                 <li>Person 6</li>
                 <li>Person 7</li>
